@@ -15,8 +15,7 @@ The Coffee Shop wants to analyze sales data to identify trends and patterns. So 
 - Relation between product size and revenue generated.
 - Which product type is the highest selling?
 - Percentage of Total Orders delivered
-- Dashboard Interaction <a href="https://github.com/Naikwadifatima-12/Coffee_Shop_Sales/blob/main/Coffee%20sales%20image.png">View Dashboard</a>
-
+  
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
 - Made sure data is consistent and clean with respect to data type, data format and values used.
