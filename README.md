@@ -24,7 +24,8 @@ The Coffee Shop wants to analyze sales data to identify trends and patterns. So 
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 ## Dashboard
-https://github.com/Naikwadifatima-12/Coffee_Shop_Sales/blob/main/Coffee%20sales%20image.png
+- Dashboard Interaction <a href="https://github.com/Git-Salomi/Vrinda-Store-Data-Analysis/blob/main/Vrinda%20Sales%20Analysis%20Screenshot.png">View Dashboard</a>
+
 
 ## Project Insight
 - **Coffee** is the highest revenue-generating category across all three store locations.
