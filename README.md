@@ -15,7 +15,7 @@ The Coffee Shop wants to analyze sales data to identify trends and patterns. So 
 - Relation between product size and revenue generated.
 - Which product type is the highest selling?
 - Percentage of Total Orders delivered
-- Dashboard Interaction <a href="#">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/Naikwadifatima-12/Coffee_Shop_Sales/blob/main/Coffee%20sales%20image.png">View Dashboard</a>
 
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
@@ -24,7 +24,7 @@ The Coffee Shop wants to analyze sales data to identify trends and patterns. So 
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 ## Dashboard
-- Dashboard Interaction <a href="https://github.com/Naikwadifatima-12/Coffee_Shop_Sales/blob/main/Coffee%20sales%20image.png">View Dashboard</a>
+![Screenshot (495)](https://github.com/Naikwadifatima-12/Coffee_Shop_Sales/blob/main/Coffee%20sales%20image.png)
 
 
 ## Project Insight
