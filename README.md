@@ -4,7 +4,7 @@
 The Coffee Shop wants to analyze sales data to identify trends and patterns. So that, the owner of the Coffee Shop can understand their customers and grow more sales.
 
 ## Dataset used
-- <a href="#">Dataset</a>
+- <a href="https://github.com/Naikwadifatima-12/Coffee_Shop_Sales/blob/main/Final%20Coffee%20Project.xlsx">Dataset</a>
 
 ## Questions (KPIs)
 - Compare the sales and orders using single chart.
